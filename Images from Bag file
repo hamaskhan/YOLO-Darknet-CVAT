@@ -1,0 +1,16 @@
+1) Run this command in terminal
+roscore
+
+2) Select which topic from the bag file you want to run using this command in a 
+separate terminal tab
+rosbag info furn_activity_3_2023-05-10-15-15-20.bag
+
+3) Run rosbag play -l furn_activity_3_2023-05-10-15-15-20.bag to start playback
+of the bag file. Run in a separate terminal tab. -l is for looping.
+
+4) Run this in a separate terminal tab
+
+rosrun image_view image_saver image:=/camera/101622073015/color/image_raw/  _image_transport:=compressed _save_all_image:=all _filename_format:=export/color%04d.%s
+
+
+####_image_transport:=compressed is for a compressed file.
