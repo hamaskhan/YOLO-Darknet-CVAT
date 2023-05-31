@@ -1,0 +1,6 @@
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/color0255.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/color0705.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/color1504.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/color2940.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/color3299.jpg
+/home/student/HK-HAU/Lab2/darknet/custom_data/obj_train_data/color3464.jpg
